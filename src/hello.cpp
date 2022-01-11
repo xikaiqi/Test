@@ -5,7 +5,9 @@
 #include <windows.h>
 
 int main() {
-    std::cout << "Hello, master 2!" << std::endl;
+
+    std::cout << "Hello, feature 3!" << std::endl;
+
     Sleep(3 * 1000);
     return 0;
 }
